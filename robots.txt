@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
   
-Sitemap: https://surabaya.wire.suppliers.id/video-sitemap.xml
+Sitemap: https://surabaya.wire.suppliers.id/sitemap_index.xml
