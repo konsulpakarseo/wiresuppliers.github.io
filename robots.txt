@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /category/
   
 Sitemap: https://surabaya.wire.suppliers.id/sitemap_index.xml
